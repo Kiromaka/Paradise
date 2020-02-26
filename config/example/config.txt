@@ -486,3 +486,16 @@ BYOND_ACCOUNT_AGE_THRESHOLD 7
 #DISCORD_FORWARD_ALL_AHELPS
 
 ##### END DISCORD STUFF #####
+
+
+## Uncomment to disable respawning by default.
+#DISABLE_RESPAWN
+
+## Uncomment to allow players joined as observer respawning.
+#RESPAWN_OBSERVER
+
+## Respawn delay in minutes before one may respawn as a crew member.
+RESPAWN_DELAY 20
+
+## Respawn delay in minutes before one may respawn as a drone.
+RESPAWN_DELAY_DRONE 10
